@@ -8,6 +8,6 @@ class Star
   }
   public void show(){
     fill(starColor);
-    ellipse(xCoord,yCoord,2,2);
+    ellipse(xCoord,yCoord,1,1);
 }
 }
