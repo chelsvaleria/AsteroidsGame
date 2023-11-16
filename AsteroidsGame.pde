@@ -1,4 +1,4 @@
-Star[] wow = new Star[200]; 
+Star[] wow = new Star[1000]; 
 Spaceship bob = new Spaceship();
 public void setup() 
 {
