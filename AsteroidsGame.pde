@@ -20,7 +20,7 @@ public void draw()
   {
     wow[i].show();
   }
-  // spaceship moves
+  // spaceship moves and shows
   bob.move();
   bob.show();
   // loop to move & show asteroids
@@ -53,7 +53,7 @@ public void draw()
     }
     }
   }
-// these are all self explanatory
+// buttons
 public void keyPressed(){
 if(key == 'h'){
   bob.hyperspace();
