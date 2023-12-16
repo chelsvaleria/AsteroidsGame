@@ -20,7 +20,7 @@ public void draw()
   {
     wow[i].show();
   }
-  // spaceship moves and shows
+  // spaceship moves
   bob.move();
   bob.show();
   // loop to move & show asteroids
